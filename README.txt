@@ -1,0 +1,4 @@
+Cloudflare Pages用の完成済み静的サイトです。
+
+このZIPを展開せず、Cloudflare PagesのDirect Uploadでそのままアップロードできます。
+画像は7枚から同じ確率でランダムに1枚表示されます。
